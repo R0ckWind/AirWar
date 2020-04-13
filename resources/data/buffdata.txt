@@ -1,0 +1,8 @@
+[buff]
+name=通关奖励
+duration=0
+hp_heal=50
+mp_heal=1
+
+
+
