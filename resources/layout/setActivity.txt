@@ -1,7 +1,7 @@
 #设置页面布局
 sizeW=512
 sizeH=910
-background=img/Background/2.jpg
+background=img/Background/3.png
 
 [button]
 name=返回
