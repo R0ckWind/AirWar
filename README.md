@@ -8,6 +8,7 @@
 <div align=center><img src="https://github.com/R0ckWind/AirWar/blob/master/preview4.png"/></div>
 <div align=center><img src="https://github.com/R0ckWind/AirWar/blob/master/preview5.png"/></div>
 <div align=center><img src="https://github.com/R0ckWind/AirWar/blob/master/preview6.png"/></div>
+  
 ## 功能清单：  
 1.支持通过配置文件进行单位数据编辑  
 2.支持通过配置文件进行界面布局编辑  
