@@ -4,11 +4,7 @@ import java.util.Random;
 
 //随机数生成工具
 public class RandomGenerator {
-	private Random random;
-	public RandomGenerator()
-	{
-		random=new Random();
-	}
+	private static Random random=new Random();
 	//获得随机整数，闭区间[start,end]
 	public int nextInt(int start,int end)
 	{
